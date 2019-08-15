@@ -1,0 +1,70 @@
+{
+  "parties": [
+    {
+      "title": "IPARTY FEST",
+      "subtitle": "Lorem ipsum dolor sit amet",
+      "illustration": "https://i.imgur.com/UYiroysl.jpg",
+      "location": {
+        "latitude": -34.925,
+        "longitude": -57.97,
+        "latitudeDelta": 0.01,
+        "longitudeDelta": 0.01
+      }
+    },
+    {
+      "title": "IPARTY FEST 2",
+      "subtitle": "Lorem ipsum dolor sit amet",
+      "illustration": "https://i.imgur.com/UPrs1EWl.jpg",
+      "location": {
+        "latitude": -34.885475,
+        "longitude": -58.01446,
+        "latitudeDelta": 0.01,
+        "longitudeDelta": 0.01
+      }
+    },
+    {
+      "title": "IPARTY FEST 3",
+      "subtitle": "Lorem ipsum dolor sit amet et nuncat ",
+      "illustration": "https://i.imgur.com/MABUbpDl.jpg",
+      "location": {
+        "latitude": -34.945,
+        "longitude": -57.973,
+        "latitudeDelta": 0.01,
+        "longitudeDelta": 0.01
+      }
+    }
+  ],
+
+  "meet": [
+    {
+      "username": "juliangsibecas",
+      "age": 20,
+      "bio": "Informática UNLP",
+      "profilePic": "https://scontent.faep9-1.fna.fbcdn.net/v/t1.0-9/22228078_2152036814822416_3981976901657564117_n.jpg?_nc_cat=100&_nc_oc=AQlhc5IRB8jJFYBySwNn5hv9RBwD6jQh5_XQyOFKI7aAN-QOJSVrh9RzFikcEG5DvD0&_nc_ht=scontent.faep9-1.fna&oh=2d60b850dd22e18cce7ac32847df372d&oe=5DD3DE5B"
+    },
+    {
+      "username": "juliangsibecas",
+      "age": 20,
+      "bio": "Informática UNLP",
+      "profilePic": "https://scontent.faep9-1.fna.fbcdn.net/v/t1.0-9/22228078_2152036814822416_3981976901657564117_n.jpg?_nc_cat=100&_nc_oc=AQlhc5IRB8jJFYBySwNn5hv9RBwD6jQh5_XQyOFKI7aAN-QOJSVrh9RzFikcEG5DvD0&_nc_ht=scontent.faep9-1.fna&oh=2d60b850dd22e18cce7ac32847df372d&oe=5DD3DE5B"
+    },
+    {
+      "username": "juliangsibecas",
+      "age": 20,
+      "bio": "Informática UNLP",
+      "profilePic": "https://scontent.faep9-1.fna.fbcdn.net/v/t1.0-9/22228078_2152036814822416_3981976901657564117_n.jpg?_nc_cat=100&_nc_oc=AQlhc5IRB8jJFYBySwNn5hv9RBwD6jQh5_XQyOFKI7aAN-QOJSVrh9RzFikcEG5DvD0&_nc_ht=scontent.faep9-1.fna&oh=2d60b850dd22e18cce7ac32847df372d&oe=5DD3DE5B"
+    },
+    {
+      "username": "juliangsibecas",
+      "age": 20,
+      "bio": "Informática UNLP",
+      "profilePic": "https://scontent.faep9-1.fna.fbcdn.net/v/t1.0-9/22228078_2152036814822416_3981976901657564117_n.jpg?_nc_cat=100&_nc_oc=AQlhc5IRB8jJFYBySwNn5hv9RBwD6jQh5_XQyOFKI7aAN-QOJSVrh9RzFikcEG5DvD0&_nc_ht=scontent.faep9-1.fna&oh=2d60b850dd22e18cce7ac32847df372d&oe=5DD3DE5B"
+    },
+    {
+      "username": "juliangsibecas",
+      "age": 20,
+      "bio": "Informática UNLP",
+      "profilePic": "https://scontent.faep9-1.fna.fbcdn.net/v/t1.0-9/22228078_2152036814822416_3981976901657564117_n.jpg?_nc_cat=100&_nc_oc=AQlhc5IRB8jJFYBySwNn5hv9RBwD6jQh5_XQyOFKI7aAN-QOJSVrh9RzFikcEG5DvD0&_nc_ht=scontent.faep9-1.fna&oh=2d60b850dd22e18cce7ac32847df372d&oe=5DD3DE5B"
+    }
+  ]
+}
